@@ -1,0 +1,32 @@
+header {
+   background: url('../images/img1.jpg') no-repeat center center/cover;
+}
+.section6{
+    background: url('../images/img3.png') no-repeat right;
+}
+.bt{
+    width: 200px;
+    border-radius: 5px;
+}
+.section7{
+    background: url('../images/img4.png') no-repeat left;
+}
+.carousel-indicators {
+    bottom: -52px; 
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, .5);
+    margin: 0 5px;
+}
+
+.carousel-indicators .active {
+    background-color: rgba(0, 0, 0, .9);
+}
+.section10{
+    background: url('../images/img5.png') no-repeat right;
+}
+
