@@ -23,7 +23,6 @@ A responsive frontend website built using HTML and CSS. This project demonstrate
 - Building a clean, professional layout
 - Managing assets and folders for clarity
 
-
 ## 🙋‍♀️ Author
 **Priya Singh**  
 Frontend Developer | Git Learner | Creative Coder  
