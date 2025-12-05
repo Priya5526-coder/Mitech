@@ -5,6 +5,8 @@ A responsive frontend website built using HTML and CSS. This project demonstrate
 ## 🔧 Tech Stack
 - HTML5
 - CSS3
+- JacaScript
+- jQuery
 
 ## ✨ Features
 - Responsive layout for desktop and mobile
