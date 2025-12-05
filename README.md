@@ -15,7 +15,9 @@ A responsive frontend website built using HTML and CSS. This project demonstrate
 ## 🚀 How to Run
 1. Clone this repository  
 2. Open `project2.html` in your browser  
-3. Customize styles in `main.css` as needed
+3. Customize styles in `main.css` as needed  
+
+🔗 **Live Demo:** [Mitech Frontend](https://priya5526-coder.github.io/Mitech/)
 
 ## 🧠 What I Learned
 - Structuring HTML pages with semantic tags
